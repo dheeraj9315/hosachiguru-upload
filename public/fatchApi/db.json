@@ -1,0 +1,31 @@
+{
+  "user": [
+    {
+      "Name": "foxxxxx",
+      "PetName": "foxterrier",
+      "Price": 500,
+      "Status": "Adopted",
+      "id": 0
+    },
+    {
+      "Name": "icefgvgh",
+      "PetName": "foxterrier",
+      "Price": 500,
+      "Status": "Adopted",
+      "id": 1
+    },
+    {
+      "name": "ice",
+      "age": "29",
+      "email": "dheer@gmail.com",
+      "id": 2
+    },
+    {
+      "Name": "ice",
+      "PetName": "foxterrier",
+      "Price": "500",
+      "Status": "Available",
+      "id": 3
+    }
+  ]
+}
